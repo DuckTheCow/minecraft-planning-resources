@@ -61,7 +61,7 @@ List of stuff to build on the server
 
 Overworld building is done, all that's left there is snow golems the shulkers and lighting the portals. Nether construction is now exiting the early stages.
 
->schematic: [overworld](https://raw.githubusercontent.com/DuckTheCow/minecraft-planning-resources/main/shulker-farm/shulker%20overworld.litematic) and [nether](https://raw.githubusercontent.com/DuckTheCow/minecraft-planning-resources/main/shulker-farm/shulker_nether.litematic)
+>schematic: [overworld](./shulker-farm/shulker%20overworld.litematic) and [nether](https://raw.githubusercontent.com/DuckTheCow/minecraft-planning-resources/main/shulker-farm/shulker_nether.litematic)
 
 
 >design: [ilmango](https://www.youtube.com/watch?v=RRSnya62snY)
@@ -83,15 +83,17 @@ House needs to be rebuilt due to being tiny. Tower would be cool.
 ### Ideas
 <details>
   <summary>Show images</summary>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fnrni5nexlat41.jpg&f=1&nofb=1" alt="insp1" width="40%"/>
+  
+<img src="./rebuild-house/idea1.jpg" alt="insp1" width="40%"/>
 
 <br>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https://i.redd.it/q5yfxh5gfnl11.png" alt="insp1" width="60%"/>
+<img src="./rebuild-house/idea2.png" alt="insp1" width="60%"/>
 
 <br>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fg5sbdneqtrc51.jpg&f=1&nofb=1" alt="insp1" width="40%"/>
+<img src="./rebuild-house/idea3.jpg" alt="insp1" width="40%"/>
+
 </details>
 
 
