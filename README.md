@@ -1,1 +1,2 @@
-
+- [Skyblock Todo](https://gist.github.com/DuckTheCow/174ef4cdc1324c599ff36365cae81fd8)
+- [Survival Todo](https://gist.github.com/DuckTheCow/7b3f67ef1bede1ea81496ec72c9f4d5e)
