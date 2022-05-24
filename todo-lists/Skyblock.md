@@ -6,3 +6,4 @@
 - [ ] Husk farm
 - [ ] Go to tropical fish spawn place
 - [ ] Get grass over to main island
+- [ ] test
