@@ -1,6 +1,6 @@
 # Skyblock Todo List
 
-- [ ] Mob farm safety fix
+- [x] Mob farm safety fix
 - [ ] Unique visual identity for each path
 - [ ] Go to every island
 - [ ] Husk farm
